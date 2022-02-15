@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">EGAIS scan</string>
+    <string name="action_settings">Настройки</string>
+    <string name="action_refresh">Обновить</string>
+    <string name="action_refresh_balance">Обновить остатки</string>
+    <string name="action_send">Отправить</string>
+    <string name="prefHttpService">HttpService</string>
+    <string name="prefLogin">prefLogin</string>
+    <string name="prefPassword">prefPassword</string>
+    <!--Replace with your own ad unit id. -->
+    <string name="banner_ad_unit_id">ca-app-pub-1776428202720906/3028608278</string>
+</resources>

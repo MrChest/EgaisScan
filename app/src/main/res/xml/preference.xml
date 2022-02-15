@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <EditTextPreference
+        android:defaultValue="http://192.168.210.138/egais3/hs/"
+        android:key="@string/prefHttpService"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:title="Адрес сервиса" />
+    <EditTextPreference
+        android:defaultValue="admin"
+        android:key="@string/prefLogin"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:title="Логин" />
+    <EditTextPreference
+        android:defaultValue="admin"
+        android:inputType="textPassword"
+        android:key="@string/prefPassword"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:title="Пароль" />
+</PreferenceScreen>
